@@ -5,6 +5,12 @@ A simple and interactive **Tic Tac Toe** game built using HTML, CSS, and JavaScr
 
 ---
 
+## 🌐 Live Demo
+
+Play the game here: [Tic Tac Toe Live](https://kalpeshbonde.github.io/Tic-Tac-Toe/)
+
+---
+
 ## 📖 Description
 
 This project is a browser-based implementation of the classic **Tic Tac Toe** game.  
@@ -19,12 +25,6 @@ It allows two players to play against each other on a 3x3 grid. The game detects
 - 🔄 **Reset** and **New Game** functionality.
 - 📱 Fully responsive and mobile-friendly design.
 - 🎨 Clean and simple UI.
-
----
-
-## 🌐 Live Demo
-
-Play the game here: [Tic Tac Toe Live](https://kalpeshbonde.github.io/Tic-Tac-Toe/)
 
 ---
 
